@@ -1,2 +1,3 @@
-#GhidraBoy source for reference
+GhidraBoy source for reference
 
+https://github.com/Gekkio/GhidraBoy
