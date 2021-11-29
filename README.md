@@ -1,5 +1,7 @@
 https://forums.sonicretro.org/index.php?threads/master-system-game-gear-questions.37591/
+
 https://www.smspower.org/forums/16468-IOCompleteMapping
+
 https://www.smspower.org/Development/PeripheralPorts
 
 
