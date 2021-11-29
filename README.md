@@ -1,3 +1,9 @@
+https://forums.sonicretro.org/index.php?threads/master-system-game-gear-questions.37591/
+https://www.smspower.org/forums/16468-IOCompleteMapping
+https://www.smspower.org/Development/PeripheralPorts
+
+
+
 ## Ghidra Sega Master System and Game Gear Loader
 
 A simple (WIP) loader for Ghidra for Sega Master System and Game Gear files. Currently able to:
