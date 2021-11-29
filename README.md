@@ -4,6 +4,8 @@ https://www.smspower.org/forums/16468-IOCompleteMapping
 
 https://www.smspower.org/Development/PeripheralPorts
 
+https://segaretro.org/Sega_Master_System_VDP_documentation_(2002-11-12)
+
 
 
 ## Ghidra Sega Master System and Game Gear Loader
